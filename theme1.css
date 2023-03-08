@@ -11,7 +11,7 @@ palette in :root
 @import "structure";
 
 :root {
-    --base: #faf4ed;
+    --base: #ffffff;
     --surface: #fffaf3;
     --overlay: #f2e9e1;
     --muted: #9893a5;
