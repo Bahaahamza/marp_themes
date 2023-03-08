@@ -11,7 +11,7 @@
  * @size 4:3 960px 720px
  */
 
-@import '~github-markdown-light';
+@import '~github-markdown-dark';
 
 h1 {
   border-bottom: none;
