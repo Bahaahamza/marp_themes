@@ -1,14 +1,7 @@
 /* stylelint-disable no-descending-specificity -- https://github.com/stylelint/stylelint/issues/5065 */
 
-/*!
- * Marp default theme.
- *
- * @theme default_dark
- *
- * @auto-scaling true
- * @size 16:9 1280px 720px
- * @size 4:3 960px 720px
- */
+/* @theme default_dark */
+
 
 @import '~github-markdown-dark.css';
 
